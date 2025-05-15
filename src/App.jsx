@@ -68,6 +68,13 @@ function App() {
 
         </section>
       </header>
+      <main 
+      className='grid grid-cols-3 grid-rows-3 gap-x-5 gap-y-2 '>
+        <div className='bg-purple-600'>css</div>
+        <div className='bg-purple-600'>js</div>
+        <div className='bg-purple-600'>react</div>
+        <div className='bg-purple-600'>typescript</div>
+      </main>
     </>
   )
 }

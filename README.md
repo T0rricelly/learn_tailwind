@@ -9,4 +9,4 @@ Se hace un perfil de links y lenguajes de programacion
 ## Proyecto practico para aprender tailwind
 
 - Linkweb
-- Lenguale de programacion
+- Lenguajes de programacion
